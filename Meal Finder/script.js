@@ -7,7 +7,7 @@ const search = document.getElementById('search'),
 
 
 // search meal and fetch API
-function searchMeal(e){
+  function searchMeal(e){
     e.preventDefault();
 
     // clear single meal
