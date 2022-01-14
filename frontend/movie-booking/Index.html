@@ -7,13 +7,13 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style.css"> <!--This line will fect the style.css -->
     </head>
     <body>
         
-        <div class="movie-container">
-            <label>Pick a movie:</label>
-            <select id="movie">
+        <div class="movie-container"> <!--This line will create a container or box -->
+            <label>Pick a movie:</label> <!--This line will show the words -->
+            <select id="movie"> <!--This line will allow you to choose among the options below -->
               <option value="10">Avengers: Endgame ($10)</option>
               <option value="12">Joker ($12)</option>
               <option value="8">Toy Story 4 ($8)</option>
@@ -26,25 +26,25 @@
 
             </select>
           </div>
-          <ul class="showcase">
+          <ul class="showcase"> <!--The HTML <ul> tag is utilized for determining an unordered rundown-->
             <li>
-              <div class="seat"></div>
-              <small>N/A</small>
+              <div class="seat"></div> <!--This line will create seats-->
+              <small>N/A</small> <!--This line will determine the size of the seats-->
             </li>
             <li>
-              <div class="seat selected"></div>
+              <div class="seat selected"></div> <!--This line will show seats that are being selected-->
               <small>Selected</small>
             </li>
             <li>
-              <div class="seat occupied"></div>
+              <div class="seat occupied"></div> <!--This line will show seats that are already occupied-->
               <small>Occupied</small>
             </li>
           </ul>
 
-          <div class="container">
+          <div class="container"> <!--This line will create a container or box that will be the screen -->
             <div class="screen"></div>
       
-            <div class="row">
+            <div class="row"> <!--This line will create seats in different rows -->
               <div class="seat"></div>
               <div class="seat"></div>
               <div class="seat"></div>
@@ -55,7 +55,7 @@
               <div class="seat"></div>
             </div>
       
-            <div class="row">
+            <div class="row"> <!--This line will create seats in different rows -->
                 <div class="seat"></div>
                 <div class="seat"></div>
                 <div class="seat"></div>
@@ -66,7 +66,7 @@
                 <div class="seat"></div>
               </div>
         
-              <div class="row">
+              <div class="row"> <!--This line will create seats in different rows -->
                 <div class="seat"></div>
                 <div class="seat"></div>
                 <div class="seat"></div>
@@ -77,7 +77,7 @@
                 <div class="seat occupied"></div>
               </div>
 
-              <div class="row">
+              <div class="row"> <!--This line will create seats in different rows -->
                 <div class="seat"></div>
                 <div class="seat"></div>
                 <div class="seat"></div>
@@ -88,18 +88,18 @@
                 <div class="seat"></div>
               </div>
 
-              <div class="row">
+              <div class="row"> <!--This line will create seats in different rows -->
                 <div class="seat"></div>
                 <div class="seat"></div>
                 <div class="seat"></div>
-                <div class="seat occupied"></div>
+                <div class="seat occupied"></div> <!--This line when click on the seat, it will show it is occupied -->
                 <div class="seat occupied"></div>
                 <div class="seat"></div>
                 <div class="seat"></div>
                 <div class="seat"></div>
               </div>
               
-              <div class="row">
+              <div class="row"> <!--This line will create seats in different rows -->
               <div class="seat"></div>
               <div class="seat"></div>
               <div class="seat"></div>
@@ -107,10 +107,10 @@
             <p class="text">
                 You have selected <span id="count">0</span> seats for a price of $<span
                   id="total"
-                  >0</span>
+                  >0</span> <!--This line once selected a seat and a movie, it will add the price of the ticket with the amount of seats selected together -->
               </p>
           
-              <script src="script.js"></script><body class="text">
+              <script src="script.js"></script><body class="text"> <!--This line will fetch the written script-->
         </body>
 </html>
 
