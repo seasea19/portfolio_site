@@ -55,6 +55,7 @@ const colors = {
 	fighting: '#E6E0D4',
 	normal: '#F5F5F5'
 }
+}
 
 const main_types = Object.keys(colors)
 
