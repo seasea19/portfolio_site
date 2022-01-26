@@ -28,7 +28,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'quote_generator',
     'portfolio',
-    'blog_site',
     'Exchange_r',
 ]
 

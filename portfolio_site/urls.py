@@ -12,7 +12,7 @@ urlpatterns = [
     path('', views.home, name="home"),
     # path('exchange/', exchangeView.index, name = "exchangeView"),
     # path('', quoteView.index, name = "quoteView"),
-    path('blog/', include('blog.urls'))
+    # path('blog/', include('blog.urls'))
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
