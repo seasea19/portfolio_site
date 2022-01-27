@@ -28,7 +28,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'quote_generator',
     'portfolio',
-    'Exchange_r',
+    'exchange_rate',
+    'blog',
 ]
 
 MIDDLEWARE = [
