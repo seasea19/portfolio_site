@@ -1,39 +1,41 @@
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+
 {% load static %}
 
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<div class="row justify-content-center my-3">
+    <div class="col-5">
+        <img src='static\Phoenix.png' width="300" height="300" class="img-fluid">
+    </div>
+</div>
 
-    <!-- Bootstrap CSS -->
+<div class="row justify-content-center mb-2">
+    <div class="col-md-9 text-center">
+      <h1 id="hometext" class="font-weight-bold">Welcome to my portfolio</h1>
+    </div>
+  </div>
+  <h2 class="mt-5">Portfolio</h2>
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<hr>
+<div class="row">
+  {% for project in projects %}
+  <div class="col-lg-4 col-md-6">
 
-    <link rel="stylesheet" href="{% static "portfolio/custom.css" %}">
+    {% if project.url %}
+    <a href="{{ project.url }}">
+      <img src="{{ project.image.url }}" class="img-fluid mb-2">
+    </a>
+    {% else %}
 
-    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+    <img src="{{ project.image.url }}" class="img-fluid mb-2">
+    {% endif %}
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.description }}</p>
 
-    <link rel="icon" type="image/png" href="{% static "logo.png" %}">
+  </div>
+  {% endfor %}
+</div>
 
-    <title>Portfolio Site</title>
-  
-  </head>
-  <body>
-       <nav id="topNav" class="navbar navbar-expand-md navbar-light">
-    <div class="container">
-    <a class="navbar-brand" href="{% url 'home' %}"> 
-    <img src="{% static 'logo.png' %}" width="30" height="30" class="d-inline-block align-top" alt="Logo">
-    <span>Chelsea Alcinord</span></a>
-
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    
-    <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse text-center" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="{% url 'home' %}">Home</a>
-        </li>
-        
-      
+{% endblock %}
         
