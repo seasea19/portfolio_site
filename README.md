@@ -11,11 +11,11 @@ Time spent: 2 weeks.
 ## User Stories
 The following required functionality is completed:
 
-[] User can view a list of 5 projects.
+[✓] User can view a list of 5 projects.
 
-[] Once user clicks on one of the projects, they are automatically directing to the repository of the project. 
+[✓] Once user clicks on one of the projects, they are automatically directing to the repository of the project. 
 
-[] User can see written blogs when they click on blog.
+[✓] User can see written blogs when they click on blog.
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
