@@ -74,7 +74,7 @@ The Languages used for the portfolio are HTML, CSS, Javascript and Python and it
 I still have some works left to do like putting social medias icons to link my social media accounts at the bottom of the page, be able to click on the blogs I have written without any issues and some much more.
 
 ## Last comment
- We have worked on more projects than showing and I would love to show more of them and a walkthrough videos of them. Unfortunately, that will be impossible. Below are the repositories of the projects worked on during this program which includes group projects. (only codes)
+ We have worked on more projects than what showing and I would love to show more of them and a walkthrough videos of them. Unfortunately, that will be impossible. Below are the repositories of the projects worked on during this program which includes group projects. (only codes)
  
  
  Front end projects :https://github.com/seasea19/front-end-projects (not all front end projects made are there)
@@ -96,6 +96,7 @@ I still have some works left to do like putting social medias icons to link my s
  
  Food Talk: https://github.com/TTP-Group3/food-talk
  
- This was such an amazing experience and I was glad to have been apart of it. Just like the pictures I chose for my portfolio, Phoenix which  symbolizes eternal flame, which can mean faith, will, or passion in life and immortality, resurrection and life after death, I was reborn from the ashes as another software engineer with more knoweledge and more skills. I will apply what I've learnt from this program to my future projects and become more passionate.
+
+* This was such an amazing experience and I was glad to have been apart of it. Just like the pictures I chose for my portfolio, Phoenix which  symbolizes eternal flame, which can mean faith, will, or passion in life and immortality, resurrection and life after death, I was reborn from the ashes as another software engineer with more knoweledge and more skills. I will apply what I've learnt from this program to my future projects and become more passionate.*
  
  
