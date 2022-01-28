@@ -1,20 +1,21 @@
 # portfolio_site
 
-Project  - Portfolio 
+## Project  - *Portfolio*
+
 Portfolio site is a site made with django that is showcasing my 5 (+1 bonus) favorite projects I have done during the TTP Residency Program at John Jay College of Criminal justice.
 
 Submitted by: Chelsea Alcinord
 
 Time spent: a week
 
-User Stories
+## User Stories
 The following required functionality is completed:
 
 [] User can view a list of 5 projects.
 [] User , once clicked on one of the projects, is automatically directing to the repository of the project. 
 [] User can see written blogs when they click on blog.
 
-Video Walkthrough
+## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
 ![GifMaker_20220127201338315](https://user-images.githubusercontent.com/59550990/151469810-f48510fc-0c6a-4454-802f-e8b0518ef07f.gif)
@@ -22,7 +23,9 @@ Here's a walkthrough of implemented user stories:
 ![GifMaker_20220127201447445](https://user-images.githubusercontent.com/59550990/151469843-42b203c3-b793-4f3a-b4cb-061c43186353.gif)
 
 
-Links of the repositories of the 5 (+1 bonus) projects seen in the video (respectively in order shows in the video walktrough):
+## Links 
+
+Below are the links of the repositories of the 5 (+1 bonus) projects seen in the video (respectively in order shows in the video walktrough):
 
 1. Meal Finder : https://github.com/seasea19/Meal-Finder
 Meal Finder is a front end project that will give you information and recipe about the food you looked up.
@@ -42,7 +45,8 @@ Images Carousel is a front end project that will show images in slideshow motion
 6. Dad Jokes : https://github.com/seasea19/Dad-Jokes
 Dad Jokes is a front end project that will generate dad joke.
 
+## Languages used
+The languages used for those 5 (+1) projects are HTML, CSS and Javascrispt.
 
-
-Notes
+## Notes
 I still have some works left to do like putting social medias where I can link my social medias at the bottom of the page, be able to click on the blogs I have written without any issues and some much more.
