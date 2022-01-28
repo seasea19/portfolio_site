@@ -2,7 +2,7 @@
 
 ## Project  - *Portfolio*
 
-Portfolio site is a site made with django that is showcasing my 5 (+1 bonus) favorite projects I have done during the TTP Residency Program at John Jay College of Criminal justice.
+Portfolio site is my portfolion made with Django and Python that is showcasing my 5 (+1 bonus) favorite projects I have done during the TTP Residency Program at John Jay College of Criminal justice.
 
 Submitted by: Chelsea Alcinord
 
@@ -46,7 +46,8 @@ Images Carousel is a front end project that will show images in slideshow motion
 Dad Jokes is a front end project that will generate dad joke.
 
 ## Languages used
-The languages used for those 5 (+1) projects are HTML, CSS and Javascrispt.
+The languages used for those 5 (+1) projects are HTML, CSS and Javascript.
+The Languages used for the portfolio are HTML, CSS, Javascript and Python and it was hosted by Django administration site.
 
 ## Notes
 I still have some works left to do like putting social medias where I can link my social medias at the bottom of the page, be able to click on the blogs I have written without any issues and some much more.
