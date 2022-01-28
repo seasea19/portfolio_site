@@ -6,14 +6,14 @@ Portfolio site is my portfolion made with Django and Python that is showcasing m
 
 Submitted by: Chelsea Alcinord
 
-Time spent: a week
+Time spent: a week.
 
 ## User Stories
 The following required functionality is completed:
 
 [] User can view a list of 5 projects.
 
-[] User , once clicked on one of the projects, is automatically directing to the repository of the project. 
+[] Once user clicks on one of the projects, they are automatically directing to the repository of the project. 
 
 [] User can see written blogs when they click on blog.
 
@@ -66,6 +66,8 @@ Dad Jokes is a front end project that will generate dad joke.
 
 ## Languages used
 The languages used for those 5 (+1) projects are HTML, CSS and Javascript.
+
+
 The Languages used for the portfolio are HTML, CSS, Javascript and Python and it was hosted by Django administration site.
 
 ## Notes
