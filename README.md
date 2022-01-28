@@ -71,7 +71,7 @@ The languages used for those 5 (+1) projects are HTML, CSS and Javascript.
 The Languages used for the portfolio are HTML, CSS, Javascript and Python and it was hosted by Django administration site.
 
 ## Notes
-I still have some works left to do like putting social medias icons to link my social media accounts at the bottom of the page, be able to click on the blogs I have written without any issues and some much more.
+I still have some works left to do like putting social medias icons to link my social media accounts at the bottom of the page, be able to click on the blogs I have written without any issues and much more such as hosting it or putting my resume.
 
 ## Last comment
  We have worked on more projects than what showing and I would love to show more of them and a walkthrough videos of them. Unfortunately, that will be impossible. Below are the repositories of the projects worked on during this program which includes group projects. (only codes)
