@@ -97,6 +97,6 @@ I still have some works left to do like putting social medias icons to link my s
  Food Talk: https://github.com/TTP-Group3/food-talk
  
 
-* This was such an amazing experience and I was glad to have been apart of it. Just like the pictures I chose for my portfolio, Phoenix which  symbolizes eternal flame, which can mean faith, will, or passion in life and immortality, resurrection and life after death, I was reborn from the ashes as another software engineer with more knoweledge and more skills. I will apply what I've learnt from this program to my future projects and become more passionate.*
+*This was such an amazing experience and I was glad to have been apart of it. Just like the pictures I chose for my portfolio, Phoenix which  symbolizes eternal flame, which can mean faith, will, or passion in life and immortality, resurrection and life after death, I was reborn from the ashes as another software engineer with more knoweledge and more skills. I will apply what I've learnt from this program to my future projects and become more passionate.*
  
  
