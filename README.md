@@ -6,7 +6,7 @@ Portfolio site is my portfolion made with Django and Python that is showcasing m
 
 Submitted by: Chelsea Alcinord
 
-Time spent: a week.
+Time spent: 2 weeks.
 
 ## User Stories
 The following required functionality is completed:
