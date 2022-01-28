@@ -2,9 +2,9 @@
 
 ## Project  - *Portfolio*
 
-Portfolio site is my portfolion made with Django and Python that is showcasing my 5 (+1 bonus) favorite projects I have done during the TTP Residency Program at John Jay College of Criminal justice.
+Portfolio site is a portfolio made with Django and Python that is showcasing my 5 (+1 bonus) favorite projects I have done during the TTP Residency Program at John Jay College of Criminal justice.
 
-Submitted by: Chelsea Alcinord
+Submitted by: Chelsea Alcinord.
 
 Time spent: 2 weeks.
 
