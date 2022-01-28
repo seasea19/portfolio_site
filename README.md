@@ -31,7 +31,7 @@ Go to your terminal/command prompt (install django using this command pip instal
 
 ## Links 
 
-Below are the links of the repositories of the 5 (+1 bonus) projects seen in the video with a walkthrough videos in their readme file (respectively in order shows in the video walktrough):
+Below are the links of the repositories with a walkthrough video (in their README file) of the 5 (+1 bonus) projects seen in the video (respectively in order shows in the video walktrough):
 
 1. Meal Finder : https://github.com/seasea19/Meal-Finder
 
