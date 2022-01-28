@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 ##To run the portfolio page:
 
-Go to your terminal/command prompt (install django using this command pip install django if you don't have it) and use this command python manage.py runserver.
+Go to your terminal/command prompt (install django using this command pip install django if you don't have it) and run this command python manage.py runserver.
 
 
 ## Links 
@@ -81,7 +81,7 @@ I still have some works left to do like putting social medias icons to link my s
  We have worked on more projects than what showing and I would love to show more of them and a walkthrough videos of them. Unfortunately, that will be impossible. Below are the repositories of the projects worked on during this program which includes group projects. (only codes)
  
  
- Front end projects :https://github.com/seasea19/front-end-projects (not all front end projects made are there)
+ Front end projects: https://github.com/seasea19/front-end-projects (not all front end projects made are there)
  
  
  Other projects (not all):
@@ -96,7 +96,7 @@ I still have some works left to do like putting social medias icons to link my s
  
  City Tours: https://github.com/TTP-Group1/city_tours
  
- The venue:https://github.com/cenkcafer/react_project1_team2
+ The venue: https://github.com/cenkcafer/react_project1_team2
  
  Food Talk: https://github.com/TTP-Group3/food-talk
  
