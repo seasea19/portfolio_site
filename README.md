@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 ![GifMaker_20220127201447445](https://user-images.githubusercontent.com/59550990/151469843-42b203c3-b793-4f3a-b4cb-061c43186353.gif)
 
-## To run the portfolio page: 
+## To view the portfolio in django site:
 
 Clone this repository or download the codes, unzip the folder then open it on visual code.
 
