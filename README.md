@@ -24,9 +24,12 @@ Here's a walkthrough of implemented user stories:
 
 ![GifMaker_20220127201447445](https://user-images.githubusercontent.com/59550990/151469843-42b203c3-b793-4f3a-b4cb-061c43186353.gif)
 
-##To run the portfolio page:
+## To run the portfolio page: 
 
-Go to your terminal/command prompt (install django using this command pip install django if you don't have it) and run this command python manage.py runserver.
+Clone this repository or download the codes, unzip the folder then open it on visual code.
+
+
+After, go to your terminal in visual code/command prompt (install django using this command pip install django if you don't have it) and run this command python manage.py runserver.
 
 
 ## Links 
